@@ -33,9 +33,7 @@ pip install git+https://github.com/WindVoiceVox/LoopbackWhisperModule
 
 # Note
 
-このモジュールは TadaoYamaoka / LoopbackWhisperをクラスにしたものです
-
-https://github.com/TadaoYamaoka/LoopbackWhisper
+このモジュールは (TadaoYamaoka / LoopbackWhisper)[https://github.com/TadaoYamaoka/LoopbackWhisper]をクラスにしたものです
 
 作者は変換した結果に責任を持つものではありません。もしバグを見つけた方はご連絡ください。
 
